@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hoppyie
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front end development in web
+- 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate with developers 
 
 
